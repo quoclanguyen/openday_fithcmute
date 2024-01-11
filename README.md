@@ -10,4 +10,4 @@ Python version 3.7 or above
 `pip install opencv-python`  
 `pip install numpy`  
 # How to run
-`python ./<GameFolderName>/main.py`
+`cd <GameFolderName> && python main.py`
