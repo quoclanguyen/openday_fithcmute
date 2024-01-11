@@ -7,7 +7,7 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 import time
 
-from GUI_Start import start_GUI_Start
+from Game_Sokoban.main import start_GUI_Start
 from SokobanState import *
 from SolveDFS_IDS import *
 from SolveBFS_UCS import *

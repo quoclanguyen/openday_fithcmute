@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import os
 import pygame
 
-from GUI_Start import start_GUI_Start
+from Game_Sokoban.main import start_GUI_Start
 
 _ROOT = os.path.abspath(os.path.dirname(__file__))
 
